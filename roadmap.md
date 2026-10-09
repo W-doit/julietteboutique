@@ -1,3 +1,3 @@
 # Juliette Boutique
-- [ ] Build a clean, modern feminine boutique website with collection, brand story, Instagram and visit links.
-- [ ] Verify navigation and mobile layout.
+- [x] Build a clean, modern feminine boutique website with collection, brand story, Instagram and visit links.
+- [x] Verify navigation and mobile layout.
